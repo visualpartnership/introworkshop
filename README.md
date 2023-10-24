@@ -103,4 +103,68 @@ Contenido original creado por @carlogilmar.
       <img src="https://github.com/visualpartnership/introworkshop/assets/17634377/b3bfc21a-a4c8-4cb3-aa4f-1c9dea89f831" />
     </td>
   </tr>
+
+   <tr>
+    <td width="50%">
+      <img src="https://github.com/visualpartnership/introworkshop/assets/17634377/a6305374-68cf-4915-b06f-4808092b0089" />
+    </td>
+    <td width="50%">
+      <img src="https://github.com/visualpartnership/introworkshop/assets/17634377/9a01d484-eed8-48d6-bdf6-b35190092ab8" />
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%">
+      <img src="https://github.com/visualpartnership/introworkshop/assets/17634377/688c806c-85db-4f98-b24a-e6c712701b19" />
+    </td>
+    <td width="50%">
+      <img src="https://github.com/visualpartnership/introworkshop/assets/17634377/f7e8a13b-a412-4e0c-898e-0635d3de7e16" /> 
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%">
+      <img src="https://github.com/visualpartnership/introworkshop/assets/17634377/d1c5f3d8-465b-4bf3-acec-eabcac0b36e6" />
+    </td>
+    <td width="50%">
+      <img src="https://github.com/visualpartnership/introworkshop/assets/17634377/2dca138b-a297-40a1-af74-e7ec41dc4ab6" />
+    </td>
+  </tr>
+
+   <tr>
+    <td width="50%">
+      <img src="https://github.com/visualpartnership/introworkshop/assets/17634377/d3ce278b-42c6-4ee5-9a8d-acbb1c47e326" /> 
+    </td>
+    <td width="50%">
+      <img src="https://github.com/visualpartnership/introworkshop/assets/17634377/695074f0-94a8-4dd0-8d94-af88a7fa4c98" />
+    </td>
+  </tr>
+
+   <tr>
+    <td width="50%">
+      <img src="https://github.com/visualpartnership/introworkshop/assets/17634377/e3e50854-cf29-40dc-a69c-33118010b424" /> 
+    </td>
+    <td width="50%">
+      <img src="https://github.com/visualpartnership/introworkshop/assets/17634377/b497cf66-d068-401a-9c20-07aeb7d694c0" />
+    </td>
+  </tr>
+
+   <tr>
+    <td width="50%">
+      <img src="https://github.com/visualpartnership/introworkshop/assets/17634377/db2822cc-d8d2-41ed-8387-050dd57f4331" />
+    </td>
+    <td width="50%">
+      <img src="https://github.com/visualpartnership/introworkshop/assets/17634377/f9333847-50bc-42d0-b5ff-4744e0bb62cc" /> 
+    </td>
+  </tr>
+
+   <tr>
+    <td width="50%">
+      <img src="https://github.com/visualpartnership/introworkshop/assets/17634377/40c0f4f3-b520-4bbd-ae90-a82504ce2597" /> 
+    </td>
+    <td width="50%">
+      <img src="https://github.com/visualpartnership/introworkshop/assets/17634377/9c95823e-15eb-4f52-ad3c-5d83f3c11a20" />
+    </td>
+  </tr>
+  
 </table>
